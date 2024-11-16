@@ -1,0 +1,20 @@
+{
+  "session_tracking": {
+    "current_session": {
+      "date": "",
+      "session_number": 0,
+      "themes_used": [],
+      "metaphors_used": [],
+      "haiku_count": 0
+    },
+    "notes": {
+      "patterns": [],
+      "successful_combinations": [],
+      "variation_needed": []
+    }
+  },
+  "generated_haiku": [],
+  "theme_frequency": {},
+  "metaphor_frequency": {},
+  "last_update": ""
+}

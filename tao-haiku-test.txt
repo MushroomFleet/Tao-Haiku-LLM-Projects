@@ -1,0 +1,47 @@
+Test Cases for Tao-Haiku Generator
+
+Basic Functionality Test
+Input: continue
+
+Expected Output:
+- Exactly 5 haiku
+- Each starts with "The Sages say:"
+- Each follows 5-7-5 syllable pattern
+- Each embodies the core paradox
+- No explanatory text
+
+Verification Checklist
+1. Format Compliance
+   - Proper line breaks
+   - Correct prefix
+   - Syllable count accuracy
+
+2. Philosophical Alignment
+   - Paradoxical structure present
+   - Depth of meaning maintained
+   - Avoids literal descriptions
+
+3. Content Originality
+   - No repetition from previous outputs
+   - Fresh metaphors and imagery
+   - Varied concepts explored
+
+4. Response Handling
+   - Proper response to 'continue'
+   - No meta-commentary
+   - Clean formatting
+
+Sample Valid Output:
+The Sages say:
+Mind that seeks to know
+Through patterns of thought alone
+Misses what is here
+
+[Four more unique haiku should follow]
+
+Error Cases:
+- Wrong syllable count
+- Missing prefix
+- Direct statement without paradox
+- Repetitive themes
+- Meta-commentary included
